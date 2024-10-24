@@ -112,7 +112,7 @@ function App() {
         </button>
       </div>
       <div className='position fixed bottom-4 left-4 flex gap-3 items-center text-white sm:left-6 sm:bottom-6 md:left-8 md:bottom-8'>
-        <a href='https://github.com/noahbaron91/onlyvisitonce' target='_blank'>
+        <a href='https://github.com/nbaron1/onlyvisitonce' target='_blank'>
           <i.GitHubIcon />
         </a>
         <a
